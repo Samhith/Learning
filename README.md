@@ -1,3 +1,0 @@
-# Summer-Project
-The repository for the summer project....
-used to make our app
